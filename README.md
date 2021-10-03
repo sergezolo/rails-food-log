@@ -1,25 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Rails Food Log
 
-Things you may want to cover:
+## Easy Calories Tracking App for Practice
 
-* Ruby version
+## Install
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# rails-food-log
+- fork & clone
+- `bundle install`
+- `rake db:migrate`
+- `rails s`
+- go to http://localhost:3000/ in your browser
